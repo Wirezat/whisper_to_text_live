@@ -3,7 +3,7 @@ Thanks to [davabase](https://github.com/davabase/whisper_real_time) for the insp
 ***
 ## Installation:
 Install all requirements with
-```pip install -r requirements.txt```
+````pip install -r requirements.txt````
 make sure to also install ffmpeg
 
 ***
